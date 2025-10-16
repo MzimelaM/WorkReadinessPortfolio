@@ -1,9 +1,18 @@
 # WorkReadinessPortfolio
 
-# Work Readiness Digital Portfolio (FSA)  
+# 🎓 Work Readiness Digital Portfolio (PRP370-1-2S FSA)
 **Student:** Mpilonhle Mzimela  
 **Programme:** Diploma in ICT: Applications Development (CPUT)  
 **Email:** 230197833@mycput.ac.za  
+
+This digital portfolio shows my learning journey and professional growth during the **Work Readiness Programme** at the **Cape Peninsula University of Technology (CPUT)**. It demonstrates how I have augmented the important skills necessary to transition from a learning environment to the ICT industry — highlighting communication, interview skills, networking, and workplace professionalism.
+
+Each section is comprised of **evidence** (participation records, screenshots, and certificates) and a **STAR reflection** (Situation, Task, Action, Result) outlining what I have learned and how this has prepared me for full-time work.
+
+In presenting this portfolio, I aim to introduce myself as a motivated, diverse, and career-oriented **ICT Applications Development student** — technology enthusiast, professional learner, and servant-leader who aims to contribute meaningfully to the digital transformation of businesses and communities.
+
+
+
 
 
 
