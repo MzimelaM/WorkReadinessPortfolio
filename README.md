@@ -16,7 +16,7 @@ In presenting this portfolio, I aim to introduce myself as a motivated, diverse,
 
 
 
-1️⃣ Business Communication
+# 1️⃣ Business Communication
 
 ### Evidence
 ![LinkedIn Learning Certificate - Business Communication](images/business-communication.png)
