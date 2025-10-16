@@ -126,7 +126,7 @@ I now understand how apparently minor aspects — like greeting colleagues with 
 
 - LinkedIn Learning. (2025). *Business Communication Foundations*. Available at: https://www.linkedin.com/learning .  
 - CPUT Career Services. (2025). *Interview and Work Readiness Workshop Materials*.  
-- Jobox. (2025). *Workplace Etiquette Workshop*. Available at: https://www.jobox.co.za.  
+- Jobox. (2025). *Workplace Etiquette Workshop*. Available at: https://joinjobox.com.  
 - LinkedIn. (2025). *Professional Networking for Students*. Available at: https://www.linkedin.com .  
 
 ---
